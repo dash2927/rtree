@@ -1,6 +1,3 @@
-// If you change anything in this file, your changes will be ignored 
-// in your homework submission.
-// Chekout TEST_F functions bellow to learn what is being tested.
 #include <gtest/gtest.h>
 #include "../code/Empty.h"
 
